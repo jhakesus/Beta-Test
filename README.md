@@ -10,7 +10,7 @@
   </style>
 </head>
 <body>
-  <h1>Hello, I'm [Jake]</h1>
+  <h1>Hello, I'm Jake</h1>
   <p>Welcome to my website!</p>
 </body>
 </html>
